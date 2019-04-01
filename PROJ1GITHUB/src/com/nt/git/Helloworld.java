@@ -4,7 +4,7 @@ public class Helloworld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("HELLOW WORLD");
+System.out.println("sangram");
 System.out.println("bapi");
 System.out.println("chaga");
 	}
